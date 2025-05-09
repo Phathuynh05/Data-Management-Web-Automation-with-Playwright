@@ -1,4 +1,4 @@
-# Data-Management-Web-Automation-with-Playwright
+# Data Srapping & Web Automation with Playwright
 
     from playwright.sync_api import sync_playwright
     from tabulate import tabulate
